@@ -1,8 +1,8 @@
 PImage tortuga;
 
 void setup() {
-  size (1000, 1000);
-  tortuga = loadImage("tortuga.png");
+  size (500, 500);
+  tortuga = loadImage("final.png");
   tortuga.loadPixels();
 }
 
