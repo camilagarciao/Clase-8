@@ -19,9 +19,4 @@ void draw(){
   image(tortuga1, 0, 0);
   image(tortuga2, 500, 0);
 
-
-  image(tortuga, 500, 0);
-  image(tortuga1, 0, 0);
-  image(tortuga2, 500, 0);
-
 }
