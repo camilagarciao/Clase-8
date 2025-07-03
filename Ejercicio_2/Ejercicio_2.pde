@@ -10,7 +10,6 @@ void setup() {
   cuento = loadImage("cuento.png");
   cuento.loadPixels();
 
-  size(1000, 1000);
   tortuga1 = loadImage("tortuga.png");
   tortuga1.loadPixels();
 }
